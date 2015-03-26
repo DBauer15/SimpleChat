@@ -1,0 +1,76 @@
+C:\Users\David\AppData\Local\Temporary Projects\SimpleChat\bin\Debug\SimpleChat.exe
+C:\Users\David\AppData\Local\Temporary Projects\SimpleChat\bin\Debug\SimpleChat.pdb
+C:\Users\David\AppData\Local\Temporary Projects\SimpleChat\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\David\AppData\Local\Temporary Projects\SimpleChat\obj\x86\Debug\SimpleChat.Client.resources
+C:\Users\David\AppData\Local\Temporary Projects\SimpleChat\obj\x86\Debug\SimpleChat.Properties.Resources.resources
+C:\Users\David\AppData\Local\Temporary Projects\SimpleChat\obj\x86\Debug\SimpleChat.Server.resources
+C:\Users\David\AppData\Local\Temporary Projects\SimpleChat\obj\x86\Debug\SimpleChat.Setup.resources
+C:\Users\David\AppData\Local\Temporary Projects\SimpleChat\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\David\AppData\Local\Temporary Projects\SimpleChat\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\David\AppData\Local\Temporary Projects\SimpleChat\obj\x86\Debug\SimpleChat.exe
+C:\Users\David\AppData\Local\Temporary Projects\SimpleChat\obj\x86\Debug\SimpleChat.pdb
+C:\Users\David\Desktop\school\APR\exercises\SimpleChat\SimpleChat\obj\x86\Debug\SimpleChat.exe
+C:\Users\David\Desktop\school\APR\exercises\SimpleChat\SimpleChat\obj\x86\Debug\SimpleChat.pdb
+C:\Users\David\Desktop\school\APR\exercises\SimpleChat\SimpleChat\bin\Debug\SimpleChat.exe
+C:\Users\David\Desktop\school\APR\exercises\SimpleChat\SimpleChat\bin\Debug\SimpleChat.pdb
+C:\Users\David\Desktop\school\APR\exercises\SimpleChat\SimpleChat\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\David\Desktop\school\APR\exercises\SimpleChat\SimpleChat\obj\x86\Debug\SimpleChat.Client.resources
+C:\Users\David\Desktop\school\APR\exercises\SimpleChat\SimpleChat\obj\x86\Debug\SimpleChat.Properties.Resources.resources
+C:\Users\David\Desktop\school\APR\exercises\SimpleChat\SimpleChat\obj\x86\Debug\SimpleChat.Server.resources
+C:\Users\David\Desktop\school\APR\exercises\SimpleChat\SimpleChat\obj\x86\Debug\SimpleChat.Setup.resources
+C:\Users\David\Desktop\school\APR\exercises\SimpleChat\SimpleChat\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\David\Desktop\school\APR\exercises\SimpleChat\SimpleChat\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Projects\SimpleChat\SimpleChat\obj\x86\Debug\SimpleChat.exe
+D:\Projects\SimpleChat\SimpleChat\obj\x86\Debug\SimpleChat.pdb
+D:\Projects\SimpleChat\SimpleChat\bin\Debug\SimpleChat.exe
+D:\Projects\SimpleChat\SimpleChat\bin\Debug\SimpleChat.pdb
+D:\Projects\SimpleChat\SimpleChat\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Projects\SimpleChat\SimpleChat\obj\x86\Debug\SimpleChat.Client.resources
+D:\Projects\SimpleChat\SimpleChat\obj\x86\Debug\SimpleChat.Properties.Resources.resources
+D:\Projects\SimpleChat\SimpleChat\obj\x86\Debug\SimpleChat.Server.resources
+D:\Projects\SimpleChat\SimpleChat\obj\x86\Debug\SimpleChat.Setup.resources
+D:\Projects\SimpleChat\SimpleChat\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Projects\SimpleChat\SimpleChat\obj\x86\Debug\GenerateResource.write.1.tlog
+H:\____Aktuell\___APR\SimpleChat\SimpleChat\obj\x86\Debug\SimpleChat.exe
+H:\____Aktuell\___APR\SimpleChat\SimpleChat\obj\x86\Debug\SimpleChat.pdb
+H:\____Aktuell\___APR\SimpleChat\SimpleChat\bin\Debug\SimpleChat.exe
+H:\____Aktuell\___APR\SimpleChat\SimpleChat\bin\Debug\SimpleChat.pdb
+H:\____Aktuell\___APR\SimpleChat\SimpleChat\obj\x86\Debug\ResolveAssemblyReference.cache
+H:\____Aktuell\___APR\SimpleChat\SimpleChat\obj\x86\Debug\SimpleChat.Client.resources
+H:\____Aktuell\___APR\SimpleChat\SimpleChat\obj\x86\Debug\SimpleChat.Properties.Resources.resources
+H:\____Aktuell\___APR\SimpleChat\SimpleChat\obj\x86\Debug\SimpleChat.Server.resources
+H:\____Aktuell\___APR\SimpleChat\SimpleChat\obj\x86\Debug\SimpleChat.Setup.resources
+H:\____Aktuell\___APR\SimpleChat\SimpleChat\obj\x86\Debug\GenerateResource.read.1.tlog
+H:\____Aktuell\___APR\SimpleChat\SimpleChat\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\David\Desktop\SimpleChat\SimpleChat\obj\x86\Debug\SimpleChat.exe
+C:\Users\David\Desktop\SimpleChat\SimpleChat\obj\x86\Debug\SimpleChat.pdb
+C:\Users\David\Desktop\SimpleChat\SimpleChat\bin\Debug\SimpleChat.exe
+C:\Users\David\Desktop\SimpleChat\SimpleChat\bin\Debug\SimpleChat.pdb
+C:\Users\David\Desktop\SimpleChat\SimpleChat\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\David\Desktop\SimpleChat\SimpleChat\obj\x86\Debug\SimpleChat.Client.resources
+C:\Users\David\Desktop\SimpleChat\SimpleChat\obj\x86\Debug\SimpleChat.Properties.Resources.resources
+C:\Users\David\Desktop\SimpleChat\SimpleChat\obj\x86\Debug\SimpleChat.Server.resources
+C:\Users\David\Desktop\SimpleChat\SimpleChat\obj\x86\Debug\SimpleChat.Setup.resources
+C:\Users\David\Desktop\SimpleChat\SimpleChat\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\David\Desktop\SimpleChat\SimpleChat\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\David\Desktop\school\Projects\SimpleChat\SimpleChat\obj\x86\Debug\SimpleChat.exe
+C:\Users\David\Desktop\school\Projects\SimpleChat\SimpleChat\obj\x86\Debug\SimpleChat.pdb
+C:\Users\David\Desktop\school\Projects\SimpleChat\SimpleChat\bin\Debug\SimpleChat.exe
+C:\Users\David\Desktop\school\Projects\SimpleChat\SimpleChat\bin\Debug\SimpleChat.pdb
+C:\Users\David\Desktop\school\Projects\SimpleChat\SimpleChat\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\David\Desktop\school\Projects\SimpleChat\SimpleChat\obj\x86\Debug\SimpleChat.Client.resources
+C:\Users\David\Desktop\school\Projects\SimpleChat\SimpleChat\obj\x86\Debug\SimpleChat.Properties.Resources.resources
+C:\Users\David\Desktop\school\Projects\SimpleChat\SimpleChat\obj\x86\Debug\SimpleChat.Server.resources
+C:\Users\David\Desktop\school\Projects\SimpleChat\SimpleChat\obj\x86\Debug\SimpleChat.Setup.resources
+C:\Users\David\Desktop\school\Projects\SimpleChat\SimpleChat\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\David\Desktop\school\Projects\SimpleChat\SimpleChat\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Projects\SimpleChat_Final\SimpleChat\obj\x86\Debug\SimpleChat.exe
+D:\Projects\SimpleChat_Final\SimpleChat\obj\x86\Debug\SimpleChat.pdb
+D:\Projects\SimpleChat_Final\SimpleChat\bin\Debug\SimpleChat.exe
+D:\Projects\SimpleChat_Final\SimpleChat\bin\Debug\SimpleChat.pdb
+D:\Projects\SimpleChat_Final\SimpleChat\obj\x86\Debug\SimpleChat.Client.resources
+D:\Projects\SimpleChat_Final\SimpleChat\obj\x86\Debug\SimpleChat.Properties.Resources.resources
+D:\Projects\SimpleChat_Final\SimpleChat\obj\x86\Debug\SimpleChat.Server.resources
+D:\Projects\SimpleChat_Final\SimpleChat\obj\x86\Debug\SimpleChat.Setup.resources
+D:\Projects\SimpleChat_Final\SimpleChat\obj\x86\Debug\SimpleChat.csprojResolveAssemblyReference.cache
+D:\Projects\SimpleChat_Final\SimpleChat\obj\x86\Debug\SimpleChat.csproj.GenerateResource.Cache
